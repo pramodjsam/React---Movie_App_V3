@@ -11,4 +11,4 @@ An app to search for movie details.
 ---
 
 ## Finished Website
-The link for the finished website is - [Click Here](react-movie-app-project3.netlify.app)
+The link for the finished website is - [Click Here](https://react-movie-app-project3.netlify.app/)
